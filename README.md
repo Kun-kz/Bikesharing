@@ -77,7 +77,7 @@ Picture9
 ## Summary
 
 The Tableau Public link was as follows:
-[link to dashboard](LINK GOES HERE “https://public.tableau.com/profile/kun3167#!/vizhome/NYCCitiBikeChallenge_16172524516490/NYCCitiBikeStory”)
+[link to dashboard](LINK GOES HERE “https://public.tableau.com/views/NYCCitiBikeChallenge_16172524516490/NYCCitiBikeStory?:language=en&:display_count=y&:origin=viz_share_link”)
 
 Our results indicated that:
 Most bike users were in the center of New York City. In general, users: Male > Female > Unknown. Comparing with subscribers, customers (short-term users) were less willing to provide gender information. Trip duration less than 1 hour had the largest user number. Young people liked to use bikes comparing with elder people.
